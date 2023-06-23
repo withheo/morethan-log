@@ -1,0 +1,182 @@
+<template>
+  <svg 
+width = "50"
+height = "38"
+xmlns="http://www.w3.org/2000/svg" 
+viewBox="0 0 500 384" preserveAspectRatio="xMidYMid" xml:space="preserve">
+  <g transform="translate(0 0)">
+  <polygon vector-effect="non-scaling-stroke" transform-origin="192 303"  points = "145,228 145,378 278,303"  style="fill:#ffffff;">
+  <animateTransform id="a1" attributeName="transform" calcMode="spline"                           
+                    type="scale"
+                    values="1; 1; 0.1; 1; 1"
+                    keyTimes="0;0.2;0.5;0.8;1"
+                    keySplines="0.5 0.5 0.5 0.5;0 0.1 0.9 1;0.1 0 1 0.9;0.5 0.5 0.5 0.5"
+                    dur="0.9s"
+                    begin="0s;a9.end+2s"
+                    />
+  </polygon>
+  </g>
+
+  <g>
+  <polygon transform-origin="101 303" points = "145,228 15,303 145,378"  style="fill:#29ABE2;"><animateTransform id="a2" attributeName="transform" calcMode="spline"                           
+                    type="scale"
+                    values="1; 1; 0.1; 1; 1;"
+                    keyTimes="0;0.2;0.5;0.8;1"
+                    keySplines="0.5 0.5 0.5 0.5;0 0.1 0.9 1;0.1 0 1 0.9;0.5 0.5 0.5 0.5"
+                    dur="0.9s"
+                    begin="a1.end-0.8s"
+                    />
+          </polygon> 
+  </g>
+
+  <g>
+  <polygon transform-origin="68 218" points = "145,228 15,153 15,303"  style="fill:#29ABE2;"><animateTransform id="a3" attributeName="transform" calcMode="spline"                           
+                    type="scale"
+                    values="1; 1; 0.1; 1; 1"
+                    keyTimes="0;0.2;0.5;0.8;1"
+                    keySplines="0.5 0.5 0.5 0.5;0 0.1 0.9 1;0.1 0 1 0.9;0.5 0.5 0.5 0.5"
+                    dur="0.9s"
+                    begin="a2.end-0.8s"
+                  />
+          </polygon> 
+  </g>
+  <g>
+  <polygon transform-origin="109 151" points = "145,228 145,78 15,153"  style="fill:#FFFFFF;"><animateTransform id="a4" attributeName="transform" calcMode="spline"                           
+                    type="scale"
+                    values="1; 1; 0.1; 1; 1"
+                    keyTimes="0;0.2;0.5;0.8;1"
+                    keySplines="0.5 0.5 0.5 0.5;0 0.1 0.9 1;0.1 0 1 0.9;0.5 0.5 0.5 0.5"
+                    dur="0.9s"
+                    begin="a3.end-0.8s"
+                    />
+  </polygon> 
+  </g>
+  <g>
+  <polygon transform-origin="232 194" points = " 145,78 145,228 355,347 355 197"  style="fill:#fff;"><animateTransform id="a5" attributeName="transform" calcMode="spline"                           
+                    type="scale"
+                    values="1; 1; 0.1; 1; 1"
+                    keyTimes="0;0.2;0.5;0.8;1"
+                    keySplines="0.5 0.5 0.5 0.5;0 0.1 0.9 1;0.1 0 1 0.9;0.5 0.5 0.5 0.5"
+                    dur="0.9s"
+                    begin="a4.end-0.8s"
+                    />
+  </polygon> 
+  </g>
+  <g>
+  <polygon transform-origin="367 246" points = "355 197 355,347 485,272"  style="fill:#FFFFFF;"><animateTransform  id="a6" attributeName="transform" calcMode="spline"                           
+                    type="scale"
+                    values="1; 1; 0.1; 1; 1"
+                    keyTimes="0;0.2;0.5;0.8;1"
+                    keySplines="0.5 0.5 0.5 0.5;0 0.1 0.9 1;0.1 0 1 0.9;0.5 0.5 0.5 0.5"
+                    dur="0.9s"
+                    begin="a5.end-0.8s"
+                    />
+  </polygon> 
+  </g>
+  <g>
+  <polygon transform-origin="413 167" points = "355 197 485,272 485,122"  style="fill:#29ABE2;"><animateTransform  id="a7" attributeName="transform" calcMode="spline"                           
+                    type="scale"
+                    values="1; 1; 0.1; 1; 1"
+                    keyTimes="0;0.2;0.5;0.8;1"
+                    keySplines="0.5 0.5 0.5 0.5;0 0.1 0.9 1;0.1 0 1 0.9;0.5 0.5 0.5 0.5"
+                    dur="0.9s"
+                    begin="a6.end-0.8s"
+                    />
+  </polygon> 
+  </g>
+  <g>
+  <polygon transform-origin="373 115" points = "355 197 485,122 355,47"  style="fill:#29ABE2;"><animateTransform id="a8" attributeName="transform" calcMode="spline"                           
+                    type="scale"
+                    values="1; 1; 0.1; 1; 1"
+                    keyTimes="0;0.2;0.5;0.8;1"
+                    keySplines="0.5 0.5 0.5 0.5;0 0.1 0.9 1;0.1 0 1 0.9;0.5 0.5 0.5 0.5"
+                    dur="0.9s"
+                    begin="a7.end-0.8s"
+                    />
+  </polygon> 
+  </g>
+  <g>
+  <polygon transform-origin="296 109" points = "355 197 355,47 223,122"  style="fill:#FFF;"><animateTransform id="a9"  attributeName="transform" calcMode="spline"                           
+                    type="scale"
+                    values="1; 1; 0.1; 1; 1"
+                    keyTimes="0;0.2;0.5;0.8;1"
+                    keySplines="0.5 0.5 0.5 0.5;0 0.1 0.9 1;0.1 0 1 0.9;0.5 0.5 0.5 0.5"
+                    dur="0.9s"
+                    begin="a8.end-0.8s"
+                    />
+  </polygon> 
+  </g>
+  <g>
+        <polyline id="zz" transform-origin="1 109" fill="none" style="stroke:#0072ff;stroke-width:30px;" 
+        stroke-linecap="round" points="355,197 485,272 355,347 145,228 278,303 145,378 15,303 15,153 145,78 280,155 222,120 355,47 485,122">
+        <animate stroke-linecap="round" attributeName="opacity"
+              values="1;0;1" dur="0.9s"
+              begin="a1.end-0.8s"
+              />
+  </polyline></g>
+  <g>
+        <polyline transform-origin="1 109" stroke-linecap="round" fill="none" style="stroke:#fff;stroke-width:50px;" 
+        >
+              <animate attributeName="points" id="a10" dur="0.1s" 
+
+            from="355,197 485,272"
+              to="485,272 485,272"
+              begin="0s;a19.end"
+            ></animate>
+
+          <animate attributeName="points" id="a11" dur="0.1s" 
+            from=" 485,272 355,347"
+              to=" 355,347 355,347"
+              begin="a10.end"
+          ></animate>
+
+          <animate attributeName="points" id="a12" dur="0.1s" 
+            from="  355,347 278,303 "
+              to="  278,303 278,303"
+              begin="a11.end"
+          ></animate>
+
+          <animate attributeName="points" id="a13" dur="0.1s" 
+            from="   278,303 145,378"
+              to="   145,378 145,378"
+              begin="a12.end"
+          ></animate>
+
+          <animate attributeName="points" id="a14" dur="0.1s" 
+            from="  145,378 15,303"
+              to="  15,303 15,303"
+              begin="a13.end"
+          ></animate>
+
+          <animate attributeName="points" id="a15" dur="0.1s" 
+            from="   15,303 15,153"
+              to="   15,153 15,153"
+              begin="a14.end"
+          ></animate>
+
+          <animate attributeName="points" id="a16" dur="0.1s" 
+            from="   15,153 145,78"
+              to="   145,78 145,78"
+              begin="a15.end"
+          ></animate>
+
+          <animate attributeName="points" id="a17" dur="0.1s" 
+            from="    145,78 222,120"
+              to="    222,120 222,120"
+              begin="a16.end"
+          ></animate>
+
+          <animate attributeName="points" id="a18" dur="0.1s" 
+            from="     222,120 355,47"
+              to="    355,47 355,47"
+              begin="a17.end"
+          ></animate>
+
+          <animate attributeName="points" id="a19" dur="0.1s" 
+            from="     355,47 485,122"
+              to="    485,122 485,122"
+              begin="a18.end"
+          ></animate>
+    </polyline>
+  </g></svg>
+</template>
